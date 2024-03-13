@@ -25,7 +25,7 @@
     <table>
       <tr>
         <td>
-          <img src="../assets/profilbild.JPG" alt="" class="profilebild">
+          <img src="../assets/profilbild.png" alt="" class="profilebild">
         </td>
         <td>
           <h2 class="kleineubershriftBild">Hallo ich bin</h2>
